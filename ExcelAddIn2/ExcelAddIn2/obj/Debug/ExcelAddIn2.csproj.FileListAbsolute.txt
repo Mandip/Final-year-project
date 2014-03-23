@@ -1,0 +1,11 @@
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.dll
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.pdb
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.dll.manifest
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.vsto
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Properties.Resources.resources
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.dll
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.pdb
