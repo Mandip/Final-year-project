@@ -1,0 +1,40 @@
+﻿<Window x:Class="Data_Dictionary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Blender Data Dictionary" Height="497.761" Width="793.657">
+    <Grid>
+        <Button Name ="search" Content="Search" HorizontalAlignment="Left" Margin="256,380,0,0" VerticalAlignment="Top" Width="242" Height="54" MouseDoubleClick="search_event" />
+        <Label Content="Blender Data Dictionary" FontSize="30" HorizontalAlignment="Left" Margin="200,50,0,0" VerticalAlignment="Top" Width="361" Height="57"/>
+        <ListBox Name ="Table_search" HorizontalAlignment="Left" Height="245" Margin="50,112,0,0" VerticalAlignment="Top" Width="707" FontSize="16">
+            <ListBoxItem>MaximumDeviation </ListBoxItem>
+            <ListBoxItem>ModelTypes</ListBoxItem>
+            <ListBoxItem>PublishedModels</ListBoxItem>
+            <ListBoxItem>PublishedTables</ListBoxItem>
+            <ListBoxItem>RawCleanSiloCapacity</ListBoxItem>
+            <ListBoxItem>RawCleanSiloInventoryConstraints</ListBoxItem>
+            <ListBoxItem>RawComponentYield</ListBoxItem>
+            <ListBoxItem>RawComponentYeildFormula</ListBoxItem>
+            <ListBoxItem>RawDemand</ListBoxItem>
+            <ListBoxItem>RawMasterComponents</ListBoxItem>
+            <ListBoxItem>RawMasterPeriod</ListBoxItem>
+            <ListBoxItem>RawMasterQualities</ListBoxItem>
+            <ListBoxItem>RawMasterRawSilos</ListBoxItem>
+            <ListBoxItem>RawPlantOpHours</ListBoxItem>
+            <ListBoxItem>RawPublishedSupply</ListBoxItem>
+            <ListBoxItem>RawQualityRestriction</ListBoxItem>
+            <ListBoxItem>RawRawSiloCapacity</ListBoxItem>
+            <ListBoxItem>RawSeamQualities</ListBoxItem>
+            <ListBoxItem>RawSeamRelease</ListBoxItem>
+            <ListBoxItem>RawSiloInventory</ListBoxItem>
+            <ListBoxItem>RawSiloInventoryConstraints</ListBoxItem>
+            <ListBoxItem>RawSiloToCmCorrection</ListBoxItem>
+            <ListBoxItem>RawSites</ListBoxItem>
+            <ListBoxItem>RawSitesModel</ListBoxItem>
+            <ListBoxItem>RawSLtoCMRestrictions</ListBoxItem>
+            <ListBoxItem>RawYeildMethod</ListBoxItem>
+            <ListBoxItem>Roles</ListBoxItem>
+            <ListBoxItem>UserRawSites</ListBoxItem>
+        </ListBox>
+
+    </Grid>
+</Window>
