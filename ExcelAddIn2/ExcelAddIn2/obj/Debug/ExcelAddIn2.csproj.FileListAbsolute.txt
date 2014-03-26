@@ -9,15 +9,4 @@ C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.csproj.GenerateResource.Cache
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.dll
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.pdb
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.dll
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.pdb
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.dll.manifest
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\ExcelAddIn2.vsto
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.csprojResolveAssemblyReference.cache
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Form1.resources
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Properties.Resources.resources
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.csproj.GenerateResource.Cache
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.dll
-C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.pdb
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Form1.resources
