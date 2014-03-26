@@ -10,3 +10,5 @@ C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.dll
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.pdb
 C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Form1.resources
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Form2.resources
+C:\Users\Robin\Documents\Visual Studio 2012\Projects\ExcelAddIn2\ExcelAddIn2\obj\Debug\ExcelAddIn2.Main.resources
