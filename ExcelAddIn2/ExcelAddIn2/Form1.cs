@@ -28,6 +28,7 @@ namespace ExcelAddIn2
 
         private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
         }
 
@@ -37,6 +38,32 @@ namespace ExcelAddIn2
         }
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
+=======
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+     
+        }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
+        }
+
+        private void treeView2_AfterSelect(object sender, TreeViewEventArgs e)
+>>>>>>> origin/Robin
         {
 
         }
