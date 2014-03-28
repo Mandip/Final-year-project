@@ -22,6 +22,7 @@ namespace ExcelAddIn3
         public UserControl1()
         {
             InitializeComponent();
+            splitContainer2.Orientation = System.Windows.Forms.Orientation.Horizontal;
             
         }
         private void Get_RawCleanSiloInventoryData()
@@ -102,12 +103,12 @@ namespace ExcelAddIn3
         private void connection_close()
         {
             conn.Close();
-            MessageBox.Show("Connection closed");
+          //  MessageBox.Show("Connection closed");
         }
         private void connection_open()
         {
             conn.Open();
-            MessageBox.Show("Connection opened");
+           // MessageBox.Show("Connection opened");
         }
 
         private void button1_Click_1(object sender, EventArgs e)
@@ -138,7 +139,69 @@ namespace ExcelAddIn3
             {
                 loggedin = true;
                 MessageBox.Show("Congratularions, you are now loggedin");
+                panel2.Visible = false;
+                
             }
+
+        }
+
+        private void treeView2_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+            string text = e.Node.Text;
+            if(loggedin == true)
+            {
+                if (text.Equals("Select a Model")) 
+                {
+                    panel6.Visible = false;
+                    panel5.Visible = false;
+                    panel4.Visible = false;
+                    panel3.Visible = true;
+                    panel2.Visible = false;
+                    panel1.Visible = false;
+                }
+                else if(text.Equals("Clone an Existing Model"))
+                {
+                    panel6.Visible = false;
+                    panel5.Visible = false;
+                    panel4.Visible = true;
+                    panel3.Visible = false;
+                    panel2.Visible = false;
+                    panel1.Visible = false;
+                }
+                else if (text.Equals("Administer Models"))
+                {
+                    panel6.Visible = false;
+                    panel5.Visible = true;
+                    panel4.Visible = false;
+                    panel3.Visible = false;
+                    panel2.Visible = false;
+                    panel1.Visible = false;
+                }
+                else if (text.Equals("Updates from XPAC")) 
+                {
+                    panel6.Visible = true;
+                    panel5.Visible = false;
+                    panel4.Visible = false;
+                    panel3.Visible = false;
+                    panel2.Visible = false;
+                    panel1.Visible = false;
+                
+                }
+                else
+                {
+                    panel6.Visible = false;
+                    panel5.Visible = false;
+                    panel4.Visible = false;
+                    panel3.Visible = false;
+                    panel2.Visible = false;
+                    panel1.Visible = false;
+
+                }
+            }
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
 
         }
     }
