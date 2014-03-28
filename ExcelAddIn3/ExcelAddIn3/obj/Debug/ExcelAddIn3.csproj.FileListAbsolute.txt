@@ -22,3 +22,9 @@ C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\
 C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.csproj.GenerateResource.Cache
 C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.dll
 C:\Users\Mandip\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.pdb
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.csprojResolveAssemblyReference.cache
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.Properties.Resources.resources
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.UserControl1.resources
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.csproj.GenerateResource.Cache
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.dll
+C:\Users\simran\Documents\GitHub\Final-year-project\ExcelAddIn3\ExcelAddIn3\obj\Debug\ExcelAddIn3.pdb
